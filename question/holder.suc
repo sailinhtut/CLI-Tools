@@ -1,0 +1,6 @@
+import 'success:io';
+
+main()
+{
+print("Hello World");
+}
