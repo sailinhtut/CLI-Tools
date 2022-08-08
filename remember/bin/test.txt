@@ -1,0 +1,19 @@
+Webhook.site lets you easily inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail. What's a webhook?
+
+Any request or email sent to these addresses are logged here instantly — you don't even have to refresh!
+
+Your fluent_ui URL (Please copy it from here, not from the address bar!)
+
+https://webhook.site/bc592dd3-0b09-4bb4-bee8-10bd11bc6d6f  
+
+Your unique email address
+
+bc592dd3-0b09-4bb4-bee8-10bd11bc6d6f@email.webhook.site  
+
+Are you not receiving anything? Make sure that you copied the URL from above, and not from the browsers' address bar.
+
+To change the response (status code, body content) of the URL, click Edit above.
+
+With Webhook.site Pro, you get more features like Custom Actions that lets you extract JSON or Regex values and use them to send emails and requests, write custom scripts, and more. Read more or Upgrade now.
+
+Star on GitHub
